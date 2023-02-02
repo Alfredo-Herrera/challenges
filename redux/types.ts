@@ -1,0 +1,6 @@
+const LOADING = 'LOADING';
+const ERROR = 'ERROR';
+const RESET_STATE = 'RESET_STATE';
+const SET_DATA = 'SET_DATA';
+
+export { LOADING, ERROR, RESET_STATE, SET_DATA };
